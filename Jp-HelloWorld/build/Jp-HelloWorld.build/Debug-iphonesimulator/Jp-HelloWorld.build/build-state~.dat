@@ -1,0 +1,257 @@
+TJp-HelloWorld
+v7
+r0
+t291670623.847412
+cCheck dependencies
+cProcessInfoPlistFile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Info.plist Jp_HelloWorld-Info.plist
+cCompileXIB /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib
+cCompileXIB /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib
+cProcessPCH /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch.gch Jp_HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/main.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldAppDelegate.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldViewController.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld normal i386
+cGenerateDSYMFile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld
+cTouch /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B5CC11A00000000000000EE
+t1264369946
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.h
+c000000004BB252D900000000000001FE
+t1269977817
+s510
+i<UIKit/UIKit.h>
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m
+c000000004BB252D90000000000000283
+t1269977817
+s643
+i"Jp_HelloWorldAppDelegate.h"
+i"Jp_HelloWorldViewController.h"
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.h
+c000000004BB252D900000000000000FB
+t1269977817
+s251
+i<UIKit/UIKit.h>
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m
+c000000004BB252D900000000000005CA
+t1269977817
+s1482
+i"Jp_HelloWorldViewController.h"
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib
+c000000004BB252D900000000000018F3
+t1269977817
+s6387
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorld_Prefix.pch
+c000000004BB252D900000000000000C3
+t1269977817
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib
+c000000004BB252D90000000000002490
+t1269977817
+s9360
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app
+t1269977823
+s238
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM
+t1269977823
+s102
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Info.plist
+t1269977822
+s588
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld
+t1269977823
+s19636
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp_HelloWorldViewController.nib
+t1269977822
+s1151
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/MainWindow.nib
+t1269977822
+s1507
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/PkgInfo
+t1269977822
+s8
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp-HelloWorld.LinkFileList
+c000000004BB252DE00000000000001DB
+t1269977822
+s475
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldAppDelegate.o
+t1269977823
+s38232
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldViewController.o
+t1269977823
+s30044
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/main.o
+t1269977823
+s5976
+
+N/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m
+c000000004BB252D9000000000000016A
+t1269977817
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch.gch
+t1269977823
+s13034960
+
+NJp_HelloWorld-Info.plist
+c000000004BB252D9000000000000038D
+t1269977817
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291670622#291670622#0(0"0(0#1#0"28992373579448432#0"0#
+
+CCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldAppDelegate.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291670623.477571
+e291670623.589592
+r1
+xCompileC
+xbuild/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldAppDelegate.o
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m291670623#291670623#0(0"0(0#0#83"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m4300885448#2199"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-generated-files.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-own-target-headers.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-all-target-headers.hmap -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-project-headers.hmap -F/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/include -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources/i386 -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources -include /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch -c /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldAppDelegate.m -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldAppDelegate.o0#
+
+CCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldViewController.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291670623.478354
+e291670623.585445
+r1
+xCompileC
+xbuild/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldViewController.o
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m291670623#291670623#0(0"0(0#0#86"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m4300885448#2205"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-generated-files.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-own-target-headers.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-all-target-headers.hmap -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-project-headers.hmap -F/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/include -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources/i386 -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources -include /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch -c /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Classes/Jp_HelloWorldViewController.m -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp_HelloWorldViewController.o0#
+
+CCompileC build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/main.o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291670623.476535
+e291670623.578195
+r1
+xCompileC
+xbuild/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/main.o
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m291670623#291670623#0(0"0(0#0#55"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m4300885448#2151"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-generated-files.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-own-target-headers.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-all-target-headers.hmap -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-project-headers.hmap -F/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/include -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources/i386 -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources -include /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch -c /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/main.m -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib
+s291670622.575375
+e291670622.821008
+r1
+xCompileXIB
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib
+lSLF07#2@42"CompileXIB Jp_HelloWorldViewController.xib291670622#291670622#0(0"0(0#0#80"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib4300885448#614"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp_HelloWorldViewController.nib /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorldViewController.xib0#
+
+CCompileXIB /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib
+s291670622.567742
+e291670622.823201
+r1
+xCompileXIB
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib291670622#291670622#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#63"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib4300885448#580"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/MainWindow.nib /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld
+s291670623.808564
+e291670623.844862
+r1
+xGenerateDSYMFile
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld291670623#291670623#0(0"0(0#0#108"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld4300885448#493"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app.dSYM0#
+
+CLd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld normal i386
+s291670623.589655
+e291670623.808463
+r1
+xLd
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld
+xnormal
+xi386
+lSLF07#2@113"Link /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld291670623#291670623#0(0"0(0#0#0"4300885448#1006"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -F/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -filelist /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Objects-normal/i386/Jp-HelloWorld.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Jp-HelloWorld0#
+
+CProcessInfoPlistFile /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Info.plist Jp_HelloWorld-Info.plist
+s291670622.552968
+e291670622.567654
+r1
+xProcessInfoPlistFile
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Info.plist
+xJp_HelloWorld-Info.plist
+lSLF07#2@32"Process Jp_HelloWorld-Info.plist291670622#291670622#0(0"0(0#0#73"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorld-Info.plist30399731281166380#589"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Jp_HelloWorld-Info.plist -genpkginfo /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app/Info.plist0#
+
+CProcessPCH /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch.gch Jp_HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291670622.823308
+e291670623.476358
+r1
+xProcessPCH
+x/var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch.gch
+xJp_HelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Jp_HelloWorld_Prefix.pch291670622#291670623#0(0"0(0#0#73"/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorld_Prefix.pch4300885448#2027"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-generated-files.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-own-target-headers.hmap -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-all-target-headers.hmap -iquote /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/Jp-HelloWorld-project-headers.hmap -F/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/include -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources/i386 -I/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Jp-HelloWorld.build/Debug-iphonesimulator/Jp-HelloWorld.build/DerivedSources -c /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/Jp_HelloWorld_Prefix.pch -o /var/folders/EF/EF1UACFGHtmyyQtrmjhmN++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Jp_HelloWorld_Prefix-dqhefnmiyllgaldoibnmfcgzzdxe/Jp_HelloWorld_Prefix.pch.gch0#
+
+CTouch /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app
+s291670623.844936
+e291670623.847369
+r1
+xTouch
+x/Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app
+lSLF07#2@100"Touch /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app291670623#291670623#0(0"0(0#0#0"4300885448#366"    cd /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/labuser/github/CSCIE69-Test/Jp-HelloWorld/build/Debug-iphonesimulator/Jp-HelloWorld.app0#
+
